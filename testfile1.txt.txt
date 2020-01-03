@@ -23,3 +23,7 @@ this is feature2...!
 this is feature2...!
 ============-------------
 git remote add origin https://github.com/thepradeepkumar/devopsclass.git
+
+================================
+ragadeepika@DESKTOP-BK7IDQA MINGW64 /c/gitclass (testin)
+
